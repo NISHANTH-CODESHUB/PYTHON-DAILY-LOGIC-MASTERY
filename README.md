@@ -1,2 +1,2 @@
 # PYTHON-DAILY-LOGIC-MASTERY
-Solving Python logical problems daily to strengthen problem-solving skills, master core programming concepts, and build a consistent, professional coding portfolio.
+HELLO EVERYONE IN THIS REPO I WILL UPLOAD LOGICAL PROBLEMS THAT I SOLVE USING PYTHON THIS PRACTICE HELPS ME TO INCREACE MY LOGICAL THINKING AND PROBLEM SOLVING SKILLS
